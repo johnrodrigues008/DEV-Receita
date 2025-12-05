@@ -7,6 +7,11 @@ O projeto é composto por duas partes:
 - **Backend:** Node.js + Express
 - **OpenAI API** para geração das respostas inteligentes.
 
+## Fluxo da aplicação
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -35,6 +40,7 @@ Certifique-se de ter instalado:
 ---
 
 ## 🟦 Backend (Node.js + Express)
+
 
 ### 1. Instalar dependências
 ```
